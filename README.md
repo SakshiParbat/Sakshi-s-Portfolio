@@ -1,59 +1,37 @@
-# 🌐 Animated Portfolio Website
+# Sakshi's Portfolio 🌐
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **85K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
+Sakshi's Portfolio is a modern and responsive personal portfolio website built using React.js. It showcases projects, technical skills, and contact information in a clean and visually appealing layout.
 
-## 🚀 Live Demo
+The portfolio is designed to highlight development work, improve online presence, and provide an easy way for recruiters and clients to explore projects and get in touch.
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+## 🚀 Features
+- Responsive design (mobile, tablet, desktop)
+- Projects showcase with details
+- About section with skills and experience
+- Contact section for communication
+- Smooth scrolling and modern UI
 
 ## 🛠️ Tech Stack
+- React.js
+- JavaScript (ES6+)
+- HTML & Tailwind CSS
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
+## 📌 Sections Included
+- Home
+- About
+- Projects
+- Skills
+- Contact
 
-## 📁 Features
-
-- Responsive design for all screen sizes 📱💻
-- Smooth scroll and animation effects ✨
-- Clean and modular React components 🧩
-- Easy to customize with Tailwind utility classes 🎯
-- Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
+## 📷 Screenshot
+<img width="1340" height="608" alt="image" src="https://github.com/user-attachments/assets/9c0cfe40-2a4d-4d3e-8582-de845a23093e" />
 
 
-## 🧑‍💻 How to Use
+## 🔗 Live Demo
+https://sakshi-portfolio-616cf.web.app/
 
-### 1. Clone the Repo
-
-```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
-cd your-repo-name
-````
-
-### 2. Install Dependencies
+## ⚙️ Project Setup
 
 ```bash
 npm install
-```
-
-### 3. Run the App
-
-```bash
-npm start
-```
-
-### 4. Build for Production
-
-```bash
-npm run build
-```
-
-## 📹 YouTube Tutorial
-
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 85K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
-
-## 🌟 Credits
-
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
+npm run dev
