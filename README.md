@@ -14,7 +14,7 @@ The portfolio is designed to highlight development work, improve online presence
 ## 🛠️ Tech Stack
 - React.js
 - JavaScript (ES6+)
-- HTML & CSS
+- HTML & Tailwind CSS
 
 ## 📌 Sections Included
 - Home
